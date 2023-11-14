@@ -1,5 +1,5 @@
 # bb.sh
-very very quick poor mans burst buffer
+very very very quick poor mans burst buffer
 
 # usage 
 
